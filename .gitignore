@@ -1,0 +1,23 @@
+# instance
+.fabric
+.mixin.out
+logs
+not-enough-crashes
+saves
+screenshots
+XaeroWaypoints
+XaeroWorldMap
+o_prof
+usercache.json
+usernamecache.json
+crash-reports/*
+config/voicechat/username-cache.json
+emi.json
+config/chunky/tasks/*
+config/axiom/axiom.hocon
+emi.json
+config/voicechat/voicechat-volumes.properties
+deaths.dat
+automodpack/modpacks
+player_models/*
+XaeroWaypoints_*
